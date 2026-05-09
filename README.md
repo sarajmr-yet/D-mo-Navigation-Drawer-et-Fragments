@@ -41,7 +41,7 @@ NavigationDrawerDemo est une application Android développée en Java qui démon
 
 ---
 
-## ▶️ Exécution
+##  Exécution
 1. Ouvrir le projet avec Android Studio  
 2. Lancer l'application sur un émulateur ou appareil  
 3. Cliquer sur ☰ pour ouvrir le menu  
@@ -49,9 +49,9 @@ NavigationDrawerDemo est une application Android développée en Java qui démon
 
 ---
 
-## 🖼️ Démonstration
+##  Démonstration
 
-### 📌 Menu latéral
+###  Menu latéral
 ![Menu](menu.png)
 
 ###  Home Fragment
